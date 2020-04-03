@@ -1,5 +1,5 @@
-=== User Menus ===
-Contributors: jungleplugins, danieliser
+=== User Role Menus ===
+Contributors: jungleplugins, danieliser, dewolfe001
 Author URI:  https://jungleplugins.com/
 Plugin URI:  https://wordpress.org/plugins/user-menus/
 Donate link: https://jungleplugins.com/donate/
